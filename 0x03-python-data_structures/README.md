@@ -1,0 +1,2 @@
+s directory contains lists methods such as sort, append, remove and delete.
+It also contains contains lists as queues to allow fast appends and pops from beginning and end of a list or stack, list comprehensions that allow nesting of several for and if expressions and creating of new lists from some operation, del statement that to delete elements of a list and tuples that consist of heterogeneous data types. 
